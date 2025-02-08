@@ -1,0 +1,207 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/modelsim_projects/experimento07
+Econtador_bcd_mod10
+Z0 w1738911736
+Z1 DPx4 work 15 type_estado_bcd 0 22 O`g2OT<gn2l^AE3MWf8dT3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dD:/modelsim_projects/experimento08
+Z5 8D:/modelsim_projects/experimento08/questao01.vhd
+Z6 FD:/modelsim_projects/experimento08/questao01.vhd
+l0
+L12
+VU<aXdS^_SL;4;=WnH?dQl3
+!s100 8G]zX^Uz_[:5SEYnL5<4B0
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1738987452
+!i10b 1
+Z9 !s108 1738987452.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/modelsim_projects/experimento08/questao01.vhd|
+Z11 !s107 D:/modelsim_projects/experimento08/questao01.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aarc_contador_bcd_mod10
+R1
+R2
+R3
+DEx4 work 18 contador_bcd_mod10 0 22 U<aXdS^_SL;4;=WnH?dQl3
+l30
+L26
+V3f<1QoVYO]aOo2@NjbD8m1
+!s100 U;8RhZ85F^`ESJ_lOghbT0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Econtador_bcd_mod100
+Z14 w1738985671
+R1
+R2
+R3
+R4
+Z15 8D:/modelsim_projects/experimento08/questao02.vhd
+Z16 FD:/modelsim_projects/experimento08/questao02.vhd
+l0
+L12
+V1=Qe]2kLB]Rz8I[>^MGc80
+!s100 zFmN^6oOiSk=P[OgWAcMG1
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/modelsim_projects/experimento08/questao02.vhd|
+Z18 !s107 D:/modelsim_projects/experimento08/questao02.vhd|
+!i113 1
+R12
+R13
+Aarc_contador_bcd_mod100
+R1
+R2
+R3
+DEx4 work 19 contador_bcd_mod100 0 22 1=Qe]2kLB]Rz8I[>^MGc80
+l45
+L27
+VUFgd5>MRSJGI5llWNZ5Vj0
+!s100 _F5Lc;YJ3MP7SR2=^L2AJ2
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Etestbench_e08_bcd_mod10
+Z19 w1738756987
+R1
+Z20 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z21 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z22 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R2
+R3
+R4
+Z23 8D:/modelsim_projects/experimento08/questao01_testbench.vhd
+Z24 FD:/modelsim_projects/experimento08/questao01_testbench.vhd
+l0
+L14
+VgV^MY;ZOSO`M9Id14Y?9]1
+!s100 mn@hVbojK4KAemodg5FB:2
+R7
+32
+R8
+!i10b 1
+R9
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/modelsim_projects/experimento08/questao01_testbench.vhd|
+Z26 !s107 D:/modelsim_projects/experimento08/questao01_testbench.vhd|
+!i113 1
+R12
+R13
+Aarc_testbench_e08_bcd_mod10
+R1
+R20
+R21
+R22
+R2
+R3
+DEx4 work 23 testbench_e08_bcd_mod10 0 22 gV^MY;ZOSO`M9Id14Y?9]1
+l39
+L17
+VCKDLKERa_@gjaXF7N8j2^2
+!s100 O6C=k=QP]a=5NTT7855H@3
+R7
+32
+R8
+!i10b 1
+R9
+R25
+R26
+!i113 1
+R12
+R13
+Etestbench_e08_bcd_mod100
+Z27 w1738987449
+R1
+R20
+R21
+R22
+R2
+R3
+R4
+Z28 8D:/modelsim_projects/experimento08/questao02_testbench.vhd
+Z29 FD:/modelsim_projects/experimento08/questao02_testbench.vhd
+l0
+L14
+V>G_HXAXNhOEO3ZV0GbDh12
+!s100 ESY0DgUlnhBCGT5EdcV5P1
+R7
+32
+R8
+!i10b 1
+R9
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/modelsim_projects/experimento08/questao02_testbench.vhd|
+Z31 !s107 D:/modelsim_projects/experimento08/questao02_testbench.vhd|
+!i113 1
+R12
+R13
+Aarc_testbench_e08_bcd_mod100
+R1
+R20
+R21
+R22
+R2
+R3
+Z32 DEx4 work 24 testbench_e08_bcd_mod100 0 22 >G_HXAXNhOEO3ZV0GbDh12
+l40
+L17
+V4_<^Z<7:3NIQZjE0:BaUZ1
+!s100 _W^Ged=I=jn><0O199<fN3
+R7
+32
+R8
+!i10b 1
+R9
+R30
+R31
+!i113 1
+R12
+R13
+Ptype_estado_bcd
+R2
+R3
+w1738756324
+R4
+8D:/modelsim_projects/experimento08/estado_bcd.vhd
+FD:/modelsim_projects/experimento08/estado_bcd.vhd
+l0
+L4
+VO`g2OT<gn2l^AE3MWf8dT3
+!s100 ;F9D8UX:LJ71cJWQ@KP2G0
+R7
+32
+R8
+!i10b 1
+R9
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/modelsim_projects/experimento08/estado_bcd.vhd|
+!s107 D:/modelsim_projects/experimento08/estado_bcd.vhd|
+!i113 1
+R12
+R13

@@ -1,0 +1,17 @@
+C:/modelsim_projects/Experimento02/e02q01.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_projects/Experimento02/e02q01.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity CIRCUITO_E02Q01
+-- Compiling architecture ARC_CIRCUITO_E02Q01 of CIRCUITO_E02Q01
+
+} {} {}} C:/modelsim_projects/Experimento02/e02q02.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_projects/Experimento02/e02q02.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity CIRCUITO_E02Q02
+-- Compiling architecture ARC_CIRCUITO_E02Q02 of CIRCUITO_E02Q02
+
+} {} {}}

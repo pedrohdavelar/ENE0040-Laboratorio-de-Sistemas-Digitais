@@ -1,0 +1,35 @@
+C:/modelsim_projects/Experimento05/Experimento05Q01.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_projects/Experimento05/Experimento05Q01.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity E05Q01
+-- Compiling architecture ARC_E05Q01 of E05Q01
+
+} {} {}} C:/modelsim_projects/Experimento05/Experimento05Q03-TopModule.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_projects/Experimento05/Experimento05Q03-TopModule.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity TOPMODULE
+-- Compiling architecture TOPMODULE_ARC of TOPMODULE
+
+} {} {}} C:/modelsim_projects/Experimento05/SomadorCompleto.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_projects/Experimento05/SomadorCompleto.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SOMADOR_COMPLETO
+-- Compiling architecture ARC_SOMADOR_COMPLETO of SOMADOR_COMPLETO
+
+} {} {}} C:/modelsim_projects/Experimento05/Experimento05Q02.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_projects/Experimento05/Experimento05Q02.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity E05Q02
+-- Compiling architecture E05Q02_ARC of E05Q02
+
+} {} {}}

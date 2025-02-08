@@ -1,0 +1,33 @@
+1) Criar tipo de variável estado, nomear os estados possíveis
+    ela será usada para armazenar o estado atual e o próximo estado
+
+2) Criar 2 processos distintos. O processo combinacional e o processo sequencial.
+    O processo combinacional trata a lógica de estado seguinte (NSF, next state function;)
+    O processo sequencial trata dos registradores (memória)
+
+    o processo sequencial muda pouco entre diferentes maquinas de estado;
+        a principal variação é a possível presença de de entradas assíncronas de clear e preset
+
+    a principal mudança entre o código de diferentes máquinas de estado em VHDL está no processo
+    combinacional, o qual é descrito pelo diagrama de estados ou pela tabela de transição de estados
+
+
+
+
+
+Máquina de refrigerante
+
+
+
+
+
+
+Estado Inicial
+    INIT
+
+
+
+
+Testbench:
+Todos os estados possíveis
+transição para todos os estados

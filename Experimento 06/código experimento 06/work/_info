@@ -1,0 +1,213 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modelsim_projects/Experimento05
+Eclk_rst_tb
+Z0 w1736661273
+Z1 dC:/modelsim_projects/Experimento06
+Z2 8C:/modelsim_projects/Experimento06/1.vhd
+Z3 FC:/modelsim_projects/Experimento06/1.vhd
+l0
+L6
+V?lP@D>knTi8J1[amIOo><1
+!s100 6d6@AK;W6Kb6mR6>nI[JF2
+Z4 OV;C;10.5b;63
+32
+Z5 !s110 1736661279
+!i10b 1
+Z6 !s108 1736661279.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/modelsim_projects/Experimento06/1.vhd|
+Z8 !s107 C:/modelsim_projects/Experimento06/1.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Asim
+DEx4 work 10 clk_rst_tb 0 22 ?lP@D>knTi8J1[amIOo><1
+l14
+L9
+V48lYOXD>UL2K>LdS@K0b^2
+!s100 TZHom19J6?lIC5kQgg2^X2
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Eflip_flop_jk
+Z11 w1736656764
+Z12 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z13 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R1
+Z14 8C:/modelsim_projects/Experimento06/E06Q01-FlipFlopJK.vhd
+Z15 FC:/modelsim_projects/Experimento06/E06Q01-FlipFlopJK.vhd
+l0
+L11
+V_:5Dh6ljHlaWWHOOCE0YP3
+!s100 olNz43M10=Q:T=1gAn69F1
+R4
+32
+Z16 !s110 1737165949
+!i10b 1
+Z17 !s108 1737165949.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/modelsim_projects/Experimento06/E06Q01-FlipFlopJK.vhd|
+Z19 !s107 C:/modelsim_projects/Experimento06/E06Q01-FlipFlopJK.vhd|
+!i113 1
+R9
+R10
+Aarc_flip_flop_jk
+R12
+R13
+DEx4 work 12 flip_flop_jk 0 22 _:5Dh6ljHlaWWHOOCE0YP3
+l19
+L16
+Vel2@7LDdIIb5kCIfo]a:i2
+!s100 eXRMh3iUJ<^;]a<kBcggJ3
+R4
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R9
+R10
+Eregistrador_deslocamento_bidirecional
+Z20 w1737184698
+R12
+R13
+R1
+Z21 8C:/modelsim_projects/Experimento06/E06Q02-RegistradorDeslocamento.vhd
+Z22 FC:/modelsim_projects/Experimento06/E06Q02-RegistradorDeslocamento.vhd
+l0
+L11
+V90d][4iR=>>F>FdUW>QGH3
+!s100 b[EFCl7L@RD2>fK5?oTNk1
+R4
+32
+Z23 !s110 1737184705
+!i10b 1
+Z24 !s108 1737184705.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/modelsim_projects/Experimento06/E06Q02-RegistradorDeslocamento.vhd|
+Z26 !s107 C:/modelsim_projects/Experimento06/E06Q02-RegistradorDeslocamento.vhd|
+!i113 1
+R9
+R10
+Aarc_registrador_deslocamento_bidirecional
+R12
+R13
+DEx4 work 37 registrador_deslocamento_bidirecional 0 22 90d][4iR=>>F>FdUW>QGH3
+l21
+L17
+V2e18;b9HWQDmg3WCzR0jZ2
+!s100 H_jThZfmYVeQ]55hbOChf1
+R4
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R9
+R10
+Etestbench_q01
+Z27 w1736663316
+Z28 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z29 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z30 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R12
+R13
+R1
+Z31 8C:/modelsim_projects/Experimento06/E06Q01-TESTBENCH.vhd
+Z32 FC:/modelsim_projects/Experimento06/E06Q01-TESTBENCH.vhd
+l0
+L13
+Vf[^UQIdS1Y3H@8l=32@7E3
+!s100 9@K2J5bz<dAQMn`0Yi6TN1
+R4
+32
+Z33 !s110 1736663327
+!i10b 1
+Z34 !s108 1736663327.000000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/modelsim_projects/Experimento06/E06Q01-TESTBENCH.vhd|
+Z36 !s107 C:/modelsim_projects/Experimento06/E06Q01-TESTBENCH.vhd|
+!i113 1
+R9
+R10
+Aarc_testbench_q01
+R28
+R29
+R30
+R12
+R13
+DEx4 work 13 testbench_q01 0 22 f[^UQIdS1Y3H@8l=32@7E3
+l29
+L16
+V[WWUb3nU?Yea<M219Ej`n3
+!s100 kd7j=ZAmkSfoX>bN43k0E3
+R4
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R9
+R10
+Etestbench_q02
+Z37 w1737216604
+R28
+R29
+R30
+R12
+R13
+R1
+Z38 8C:/modelsim_projects/Experimento06/E06Q02-TESTBENCH.vhd
+Z39 FC:/modelsim_projects/Experimento06/E06Q02-TESTBENCH.vhd
+l0
+L13
+Ve3fC?]Z=PYe[UATGXV]ei1
+!s100 Jez:4YNSX6fl=ZM9HY[FC3
+R4
+32
+Z40 !s110 1737216612
+!i10b 1
+Z41 !s108 1737216612.000000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/modelsim_projects/Experimento06/E06Q02-TESTBENCH.vhd|
+Z43 !s107 C:/modelsim_projects/Experimento06/E06Q02-TESTBENCH.vhd|
+!i113 1
+R9
+R10
+Aarc_testbench_q02
+R28
+R29
+R30
+R12
+R13
+Z44 DEx4 work 13 testbench_q02 0 22 e3fC?]Z=PYe[UATGXV]ei1
+l30
+L16
+VNLM_Vm]:06^Lnem6O<;M82
+!s100 eLCFMn5OAYe37:9``;3ma0
+R4
+32
+R40
+!i10b 1
+R41
+R42
+R43
+!i113 1
+R9
+R10

@@ -1,0 +1,15 @@
+-- Experimento 04 - Porta NOT
+-- Aluno: Pedro Henrique Dias Avelar 241037112
+-- Turma 08
+-- Data: 04/12/2024
+
+-- PORTA NOT
+-- ENTRADA X
+-- SAIDA !X
+
+
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+
+ENTITY PORTA_NOT IS
+	PORT(ENTRADA: IN  

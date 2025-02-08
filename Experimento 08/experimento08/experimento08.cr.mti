@@ -1,0 +1,41 @@
+D:/modelsim_projects/experimento08/questao01_testbench.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/modelsim_projects/experimento08/questao01_testbench.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package TYPE_ESTADO_BCD
+-- Compiling entity TESTBENCH_E08_BCD_MOD10
+-- Compiling architecture ARC_TESTBENCH_E08_BCD_MOD10 of TESTBENCH_E08_BCD_MOD10
+
+} {} {}} D:/modelsim_projects/experimento08/questao02_testbench.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/modelsim_projects/experimento08/questao02_testbench.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package TYPE_ESTADO_BCD
+-- Compiling entity TESTBENCH_E08_BCD_MOD100
+-- Compiling architecture ARC_TESTBENCH_E08_BCD_MOD100 of TESTBENCH_E08_BCD_MOD100
+
+} {} {}} D:/modelsim_projects/experimento08/questao01.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/modelsim_projects/experimento08/questao01.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package TYPE_ESTADO_BCD
+-- Compiling entity CONTADOR_BCD_MOD10
+-- Compiling architecture ARC_CONTADOR_BCD_MOD10 of CONTADOR_BCD_MOD10
+
+} {} {}} D:/modelsim_projects/experimento08/estado_bcd.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/modelsim_projects/experimento08/estado_bcd.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package TYPE_ESTADO_BCD
+
+} {} {}}

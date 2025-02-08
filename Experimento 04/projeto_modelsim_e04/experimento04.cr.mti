@@ -1,0 +1,49 @@
+C:/modelsim_projects/Experimento04/e04q01.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_projects/Experimento04/e04q01.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity CIRCUITO_E04Q01
+-- Compiling architecture ARC_CIRCUITO_E04Q01 of CIRCUITO_E04Q01
+
+} {} {}} C:/modelsim_projects/Experimento04/e03q02-decoder4x16.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_projects/Experimento04/e03q02-decoder4x16.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity DEC4X16
+-- Compiling architecture ARC_DEC4X16 of DEC4X16
+
+} {} {}} C:/modelsim_projects/Experimento04/e04OR.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_projects/Experimento04/e04OR.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PORTA_OR
+-- Compiling architecture ARC_PORTA_OR of PORTA_OR
+
+} {} {}} C:/modelsim_projects/Experimento04/e04NOT.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_projects/Experimento04/e04NOT.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PORTA_NOT
+-- Compiling architecture ARC_PORTA_NOT of PORTA_NOT
+
+} {} {}} C:/modelsim_projects/Experimento04/e03q01-multiplexador8x1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_projects/Experimento04/e03q01-multiplexador8x1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX8X1
+-- Compiling architecture ARC_MUX8X1 of MUX8X1
+
+} {} {}} C:/modelsim_projects/Experimento04/e02q02-multiplexador4x1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/modelsim_projects/Experimento04/e02q02-multiplexador4x1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX4X1
+-- Compiling architecture ARC_MUX4X1 of MUX4X1
+
+} {} {}}

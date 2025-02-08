@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modelsim_projects/test
+Ecircuito_e02q01
+Z0 w1730557887
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/modelsim_projects/Experimento02
+Z4 8C:/modelsim_projects/Experimento02/e02q01.vhd
+Z5 FC:/modelsim_projects/Experimento02/e02q01.vhd
+l0
+L13
+V`Z2Pf@;4g?2Z?^WVcY0U32
+!s100 PW:G:VUn]]4G1:bO@deSM0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1730557891
+!i10b 1
+Z8 !s108 1730557891.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/modelsim_projects/Experimento02/e02q01.vhd|
+Z10 !s107 C:/modelsim_projects/Experimento02/e02q01.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarc_circuito_e02q01
+R1
+R2
+DEx4 work 15 circuito_e02q01 0 22 `Z2Pf@;4g?2Z?^WVcY0U32
+l19
+L18
+V?DH:zgNj;5kZ>PK^7@JAU0
+!s100 dVbdm_WBWBh7iWoM1Il;>0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ecircuito_e02q02
+Z13 w1730569163
+R1
+R2
+R3
+Z14 8C:/modelsim_projects/Experimento02/e02q02.vhd
+Z15 FC:/modelsim_projects/Experimento02/e02q02.vhd
+l0
+L13
+V<HgRUi1fBJj^Bhbn[_1XK0
+!s100 zW<CnjgKFElU1[8nn>]gB2
+R6
+32
+Z16 !s110 1730569170
+!i10b 1
+Z17 !s108 1730569170.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/modelsim_projects/Experimento02/e02q02.vhd|
+Z19 !s107 C:/modelsim_projects/Experimento02/e02q02.vhd|
+!i113 1
+R11
+R12
+Aarc_circuito_e02q02
+R1
+R2
+DEx4 work 15 circuito_e02q02 0 22 <HgRUi1fBJj^Bhbn[_1XK0
+l20
+L19
+VSGEHNLDaIlF;Q5I]XK<Q92
+!s100 Pji8T5M1_fT4KML0iC_H<3
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
